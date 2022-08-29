@@ -1,0 +1,5 @@
+export const actions = {
+    CHANGE_TITLE: 'CHANGE_TITLE',
+    CHANGE_COLOR: 'CHANGE_COLOR',
+    CHANGE_COUNTER: 'CHANGE_COUNTER'
+};
